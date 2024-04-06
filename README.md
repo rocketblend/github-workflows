@@ -1,4 +1,4 @@
-# GitHub Workflows Repository
+# GitHub Workflows
 
 This repository serves as the central hub for shared GitHub Actions workflows and actions, enabling consistent CI/CD practices and automation efficiencies across all projects within our organization.
 
@@ -22,4 +22,4 @@ To utilize these workflows and actions in your project, follow the steps below:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
